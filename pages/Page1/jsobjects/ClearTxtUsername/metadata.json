@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "ClearTxtUsername",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page1_ClearTxtUsername",
+  "deleted": false,
+  "gitSyncId": "644bcc5bfa065c3322ffdc94_644bcf96fa065c3322ffdcab"
+}

@@ -1,0 +1,6 @@
+INSERT INTO my_users
+  (user_name)
+VALUES
+  (
+    {{ txtUsername.text }}
+  );
