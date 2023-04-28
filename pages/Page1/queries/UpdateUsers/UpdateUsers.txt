@@ -1,0 +1,3 @@
+UPDATE my_users
+  SET user_name = {{UserTable.selectedRow.user_name}}
+  WHERE user_id = {{ UserTable.selectedRow.user_id }};

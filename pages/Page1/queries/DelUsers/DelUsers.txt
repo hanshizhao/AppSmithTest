@@ -1,0 +1,1 @@
+DELETE from  my_users WHERE user_id = {{UserTable.selectedRow.user_id}};
